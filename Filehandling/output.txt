@@ -1,0 +1,4 @@
+File Processing Result
+----------------------
+Total Lines: 3
+Total Words: 20
